@@ -6,7 +6,8 @@
 
 ## Описание
 Рекомендательная система по фильмам.
-Данные взяты с kaggle: https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset . Текстовые данные представлены на английском языке.
+Данные взяты с kaggle: https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset. 
+Текстовые данные представлены на английском языке.
 Использовались 3 датасета: movies_metadata.csv, ratings.csv, credits.csv.
 Из датасета movies_metadata.csv использовались столбцы:
 * id - id фильмов
